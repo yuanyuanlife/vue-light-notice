@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>成功@1x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="2.0-3_防御设置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="成功">
+            <g id="确认">
+                <path d="M18,1 C27.3886998,1 35,8.61151928 35,18 C35,27.3889653 27.3889653,35 18,35 C8.61103475,35 1,27.3889653 1,18 C1,8.61103475 8.61103475,1 18,1 Z" id="提示icon" stroke="#0FE0C8" stroke-width="2"></path>
+                <rect id="Rectangle-24" fill="#0FE0C8" transform="translate(21.140165, 18.765165) rotate(-315.000000) translate(-21.140165, -18.765165) " x="20.140165" y="10.265165" width="2" height="17" rx="1"></rect>
+                <rect id="Rectangle-24" fill="#0FE0C8" transform="translate(12.958185, 21.052854) rotate(-45.000000) translate(-12.958185, -21.052854) " x="11.9581845" y="16.0528544" width="2" height="10" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

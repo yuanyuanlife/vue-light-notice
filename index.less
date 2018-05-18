@@ -1,0 +1,67 @@
+.semi-opacity-notify-modal {
+  position: fixed;
+  z-index: 1000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+
+  .opacity-tip {
+    width: 300px;
+    height: 135px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    margin-left: -150px;
+    margin-top: -77px;
+    background: #26283C;
+    border-radius: 2px;
+    transition: all .2s linear;
+    opacity: .9;
+
+    &.text {
+      height: 62px;
+
+      p {
+        top: 22px;
+      }
+    }
+
+    p {
+      font-size: 14px;
+      color: #FFFFFF;
+      position: absolute;
+      top: 84px;
+      left: 0;
+      right: 0;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    .icon {
+      position: absolute;
+      top: 35px;
+      left: 132px;
+      width: 36px;
+      height: 36px;
+      background: 0 0 no-repeat;
+
+      &.text {
+        display: none;
+      }
+      &.success {
+        background-image: url(img/success.svg);
+      }
+      &.warn {
+        background-image: url(img/warn.svg);
+      }
+      &.failure {
+        background-image: url(img/failure.svg);
+      }
+      &.loading {
+        background-image: url(img/loading.svg);
+      }
+    }
+  }
+}
